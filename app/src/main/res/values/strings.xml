@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataBaseSample</string>
+    <string-array name="lv_list">
+        <item>123</item>
+        <item>234</item>
+        <item>456</item>
+        <item>567</item>
+        <item>678</item>
+        <item>890</item>
+        <item>901</item>
+        <item>012</item>
+    </string-array>
+    <string name="tv_lb_name">選択</string>
+    <string name="tv_name">未選択</string>
+    <string name="tv_lb_note">感想</string>
+    <string name="btn_Save">保存</string>
+</resources>
