@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
             String note = "";
 
             while (cursor.moveToNext()) {
-                int idxNote = cursor.getColumnIndex(" note");
+                int idxNote = cursor.getColumnIndex("note");
                 note = cursor.getString(idxNote);
             }
 
